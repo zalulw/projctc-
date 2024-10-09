@@ -1,2 +1,15 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using var dbContext = new ApplicationDbContext();
+
+try
+{
+
+    Console.WriteLine("Done");
+}
+catch (Exception ex)
+{
+    Console.WriteLine(ex.Message);
+}
+finally
+{
+    Console.ReadKey();
+}
