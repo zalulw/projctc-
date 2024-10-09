@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\b1simada\\Desktop\\projctc-\\Lecso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A281EDE-F722-45E8-A640-7B0F9014CAA3}|Lecso.Database\\Lecso.Database.csproj|c:\\users\\b1simada\\desktop\\projctc-\\lecso\\lecso.database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A281EDE-F722-45E8-A640-7B0F9014CAA3}|Lecso.Database\\Lecso.Database.csproj|solutionrelative:lecso.database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{263F33A4-0BD3-4786-A1B4-C761590C7885}|Lecso\\Lecso.csproj|c:\\users\\b1simada\\desktop\\projctc-\\lecso\\lecso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263F33A4-0BD3-4786-A1B4-C761590C7885}|Lecso\\Lecso.csproj|solutionrelative:lecso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\b1simada\\Desktop\\projctc-\\Lecso\\Lecso.Database\\Program.cs",
+              "RelativeDocumentMoniker": "Lecso.Database\\Program.cs",
+              "ToolTip": "C:\\Users\\b1simada\\Desktop\\projctc-\\Lecso\\Lecso.Database\\Program.cs",
+              "RelativeToolTip": "Lecso.Database\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:01:24.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\b1simada\\Desktop\\projctc-\\Lecso\\Lecso\\Program.cs",
+              "RelativeDocumentMoniker": "Lecso\\Program.cs",
+              "ToolTip": "C:\\Users\\b1simada\\Desktop\\projctc-\\Lecso\\Lecso\\Program.cs",
+              "RelativeToolTip": "Lecso\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T05:58:25.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

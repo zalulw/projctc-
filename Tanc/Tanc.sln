@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tanc.ConsoleApp", "Tanc\Tanc.ConsoleApp.csproj", "{00562543-0339-4957-980A-94FE34FC32A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tanc.Database", "Tanc.Database\Tanc.Database.csproj", "{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00562543-0339-4957-980A-94FE34FC32A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00562543-0339-4957-980A-94FE34FC32A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00562543-0339-4957-980A-94FE34FC32A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00562543-0339-4957-980A-94FE34FC32A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F628B887-8127-400C-9491-81D02A548ACA}
+	EndGlobalSection
+EndGlobal
