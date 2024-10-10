@@ -24,7 +24,7 @@ namespace Lecso.Database.Entities
 
 
         public virtual LocationEntity Location { get; set; }
-        public virtual TeamEntity Team { get; set; }
-        public virtual JudgeEntity Judge { get; set; }
+        public virtual ICollection<TeamEntity> Teams { get; set; }
+        public virtual ICollection<JudgeEntity> Judges { get; set; }
     }
 }

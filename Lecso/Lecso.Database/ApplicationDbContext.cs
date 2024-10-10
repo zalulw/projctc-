@@ -24,6 +24,20 @@ namespace Lecso.Database
         public ApplicationDbContext() : base()
         { 
         }
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            base.OnConfiguring(optionsBuilder);
 
+            optionsBuilder.UseSqlServer(@"Server=(localdb)\mssqllocaldb;Database=LecsoDB;Trusted_Connection=True;MultipleActiveResultSets=True;TrustServerCertificate=True;");
+        }
+
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<TeamEntity>()
+                        .HasIndex(t => t.TeamName)
+                        .IsUnique();
+
+        }
     }
 }

@@ -29,7 +29,7 @@ public class ApplicationDbContext : DbContext
         //       .HasIndex(x => x.LicencePlate)
         //       .IsUnique();
 
-        builder.Entity<ColorEntity>()
+        builder.Entity<ColorEntity>() //akkor szurunk be adatokat ha csak nagyon ritkan vagy soha nem valtozik
                .HasData(new ColorEntity
                {
                    Id = 1,
