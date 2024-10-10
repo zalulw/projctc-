@@ -9,6 +9,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{B0DA8550-DA86-48A5-97C6-AD30203D6AE0}|Vehicles.Database\\Vehicles.Database.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\samplme01\\vehicles.database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0DA8550-DA86-48A5-97C6-AD30203D6AE0}|Vehicles.Database\\Vehicles.Database.csproj|solutionrelative:vehicles.database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0DA8550-DA86-48A5-97C6-AD30203D6AE0}|Vehicles.Database\\Vehicles.Database.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\samplme01\\vehicles.database\\entities\\colorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0DA8550-DA86-48A5-97C6-AD30203D6AE0}|Vehicles.Database\\Vehicles.Database.csproj|solutionrelative:vehicles.database\\entities\\colorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0DA8550-DA86-48A5-97C6-AD30203D6AE0}|Vehicles.Database\\Vehicles.Database.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\samplme01\\vehicles.database\\entities\\vehicleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0DA8550-DA86-48A5-97C6-AD30203D6AE0}|Vehicles.Database\\Vehicles.Database.csproj|solutionrelative:vehicles.database\\entities\\vehicleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0DA8550-DA86-48A5-97C6-AD30203D6AE0}|Vehicles.Database\\Vehicles.Database.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\samplme01\\vehicles.database\\entities\\manufacturerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0DA8550-DA86-48A5-97C6-AD30203D6AE0}|Vehicles.Database\\Vehicles.Database.csproj|solutionrelative:vehicles.database\\entities\\manufacturerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0DA8550-DA86-48A5-97C6-AD30203D6AE0}|Vehicles.Database\\Vehicles.Database.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\samplme01\\vehicles.database\\entities\\modelentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0DA8550-DA86-48A5-97C6-AD30203D6AE0}|Vehicles.Database\\Vehicles.Database.csproj|solutionrelative:vehicles.database\\entities\\modelentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,10 +44,36 @@
               "RelativeDocumentMoniker": "Vehicles.ConsoleApp\\Program.cs",
               "ToolTip": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Samplme01\\Vehicles.ConsoleApp\\Program.cs",
               "RelativeToolTip": "Vehicles.ConsoleApp\\Program.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAQwDcAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAQwAAAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-18T06:01:33.105Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ColorEntity.cs",
+              "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Samplme01\\Vehicles.Database\\Entities\\ColorEntity.cs",
+              "RelativeDocumentMoniker": "Vehicles.Database\\Entities\\ColorEntity.cs",
+              "ToolTip": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Samplme01\\Vehicles.Database\\Entities\\ColorEntity.cs",
+              "RelativeToolTip": "Vehicles.Database\\Entities\\ColorEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:39:52.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VehicleEntity.cs",
+              "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Samplme01\\Vehicles.Database\\Entities\\VehicleEntity.cs",
+              "RelativeDocumentMoniker": "Vehicles.Database\\Entities\\VehicleEntity.cs",
+              "ToolTip": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Samplme01\\Vehicles.Database\\Entities\\VehicleEntity.cs",
+              "RelativeToolTip": "Vehicles.Database\\Entities\\VehicleEntity.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T05:59:04.643Z",
               "EditorCaption": ""
             },
             {
@@ -42,10 +84,35 @@
               "RelativeDocumentMoniker": "Vehicles.Database\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Samplme01\\Vehicles.Database\\ApplicationDbContext.cs",
               "RelativeToolTip": "Vehicles.Database\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAIwCUAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-18T07:24:55.305Z",
-              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ModelEntity.cs",
+              "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Samplme01\\Vehicles.Database\\Entities\\ModelEntity.cs",
+              "RelativeDocumentMoniker": "Vehicles.Database\\Entities\\ModelEntity.cs",
+              "ToolTip": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Samplme01\\Vehicles.Database\\Entities\\ModelEntity.cs",
+              "RelativeToolTip": "Vehicles.Database\\Entities\\ModelEntity.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBIAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T05:55:29.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManufacturerEntity.cs",
+              "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Samplme01\\Vehicles.Database\\Entities\\ManufacturerEntity.cs",
+              "RelativeDocumentMoniker": "Vehicles.Database\\Entities\\ManufacturerEntity.cs",
+              "ToolTip": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Samplme01\\Vehicles.Database\\Entities\\ManufacturerEntity.cs",
+              "RelativeToolTip": "Vehicles.Database\\Entities\\ManufacturerEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T05:53:15.94Z",
               "EditorCaption": ""
             }
           ]

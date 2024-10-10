@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{263F33A4-0BD3-4786-A1B4-C761590C7885}|Lecso\\Lecso.ConsoleApp.csproj|solutionrelative:lecso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A281EDE-F722-45E8-A640-7B0F9014CAA3}|Lecso.Database\\Lecso.Database.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\lecso\\lecso.database\\entities\\judgeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A281EDE-F722-45E8-A640-7B0F9014CAA3}|Lecso.Database\\Lecso.Database.csproj|solutionrelative:lecso.database\\entities\\judgeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7A281EDE-F722-45E8-A640-7B0F9014CAA3}|Lecso.Database\\Lecso.Database.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\lecso\\lecso.database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A281EDE-F722-45E8-A640-7B0F9014CAA3}|Lecso.Database\\Lecso.Database.csproj|solutionrelative:lecso.database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -32,36 +28,22 @@
               "RelativeDocumentMoniker": "Lecso\\Program.cs",
               "ToolTip": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Lecso\\Lecso\\Program.cs",
               "RelativeToolTip": "Lecso\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAF8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T07:30:48.642Z",
-              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "JudgeEntity.cs",
-              "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Lecso\\Lecso.Database\\Entities\\JudgeEntity.cs",
-              "RelativeDocumentMoniker": "Lecso.Database\\Entities\\JudgeEntity.cs",
-              "ToolTip": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Lecso\\Lecso.Database\\Entities\\JudgeEntity.cs",
-              "RelativeToolTip": "Lecso.Database\\Entities\\JudgeEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T07:26:53.185Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Lecso\\Lecso.Database\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Lecso.Database\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Lecso\\Lecso.Database\\ApplicationDbContext.cs",
               "RelativeToolTip": "Lecso.Database\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowCcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T06:41:30.789Z",
+              "WhenOpened": "2024-10-09T06:29:40.461Z",
               "EditorCaption": ""
             }
           ]
