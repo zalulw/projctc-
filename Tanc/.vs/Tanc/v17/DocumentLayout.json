@@ -1,14 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\b1simada\\Desktop\\projctc-\\Tanc\\",
+  "WorkspaceRootPath": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Tanc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}|Tanc.Database\\Tanc.Database.csproj|c:\\users\\b1simada\\desktop\\projctc-\\tanc\\tanc.database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}|Tanc.Database\\Tanc.Database.csproj|solutionrelative:tanc.database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}|Tanc.Database\\Tanc.Database.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\tanc\\tanc.database\\entities\\teamentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}|Tanc.Database\\Tanc.Database.csproj|solutionrelative:tanc.database\\entities\\teamentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00562543-0339-4957-980A-94FE34FC32A0}|Tanc\\Tanc.csproj|c:\\users\\b1simada\\desktop\\projctc-\\tanc\\tanc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00562543-0339-4957-980A-94FE34FC32A0}|Tanc\\Tanc.csproj|solutionrelative:tanc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}|Tanc.Database\\Tanc.Database.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\tanc\\tanc.database\\entities\\memberentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}|Tanc.Database\\Tanc.Database.csproj|solutionrelative:tanc.database\\entities\\memberentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}|Tanc.Database\\Tanc.Database.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\tanc\\tanc.database\\entities\\locationentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}|Tanc.Database\\Tanc.Database.csproj|solutionrelative:tanc.database\\entities\\locationentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}|Tanc.Database\\Tanc.Database.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\tanc\\tanc.database\\entities\\dateentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}|Tanc.Database\\Tanc.Database.csproj|solutionrelative:tanc.database\\entities\\dateentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}|Tanc.Database\\Tanc.Database.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\tanc\\tanc.database\\entities\\competitionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}|Tanc.Database\\Tanc.Database.csproj|solutionrelative:tanc.database\\entities\\competitionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}|Tanc.Database\\Tanc.Database.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\tanc\\tanc.database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}|Tanc.Database\\Tanc.Database.csproj|solutionrelative:tanc.database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00562543-0339-4957-980A-94FE34FC32A0}|Tanc\\Tanc.ConsoleApp.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\tanc\\tanc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00562543-0339-4957-980A-94FE34FC32A0}|Tanc\\Tanc.ConsoleApp.csproj|solutionrelative:tanc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,37 +38,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\b1simada\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Program.cs",
-              "RelativeDocumentMoniker": "Tanc.Database\\Program.cs",
-              "ToolTip": "C:\\Users\\b1simada\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Program.cs",
-              "RelativeToolTip": "Tanc.Database\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "DateEntity.cs",
+              "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Entities\\DateEntity.cs",
+              "RelativeDocumentMoniker": "Tanc.Database\\Entities\\DateEntity.cs",
+              "ToolTip": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Entities\\DateEntity.cs",
+              "RelativeToolTip": "Tanc.Database\\Entities\\DateEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T06:02:42.585Z",
+              "WhenOpened": "2024-10-16T07:29:39.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CompetitionEntity.cs",
+              "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Entities\\CompetitionEntity.cs",
+              "RelativeDocumentMoniker": "Tanc.Database\\Entities\\CompetitionEntity.cs",
+              "ToolTip": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Entities\\CompetitionEntity.cs",
+              "RelativeToolTip": "Tanc.Database\\Entities\\CompetitionEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:27:32.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LocationEntity.cs",
+              "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Entities\\LocationEntity.cs",
+              "RelativeDocumentMoniker": "Tanc.Database\\Entities\\LocationEntity.cs",
+              "ToolTip": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Entities\\LocationEntity.cs",
+              "RelativeToolTip": "Tanc.Database\\Entities\\LocationEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:22:24.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeamEntity.cs",
+              "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Entities\\TeamEntity.cs",
+              "RelativeDocumentMoniker": "Tanc.Database\\Entities\\TeamEntity.cs",
+              "ToolTip": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Entities\\TeamEntity.cs",
+              "RelativeToolTip": "Tanc.Database\\Entities\\TeamEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:35:53.504Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\b1simada\\Desktop\\projctc-\\Tanc\\Tanc\\Program.cs",
-              "RelativeDocumentMoniker": "Tanc\\Program.cs",
-              "ToolTip": "C:\\Users\\b1simada\\Desktop\\projctc-\\Tanc\\Tanc\\Program.cs",
-              "RelativeToolTip": "Tanc\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "MemberEntity.cs",
+              "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Entities\\MemberEntity.cs",
+              "RelativeDocumentMoniker": "Tanc.Database\\Entities\\MemberEntity.cs",
+              "ToolTip": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Entities\\MemberEntity.cs",
+              "RelativeToolTip": "Tanc.Database\\Entities\\MemberEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T06:02:20.858Z",
+              "WhenOpened": "2024-10-16T06:33:15.756Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Tanc\\Tanc.Database\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Tanc.Database\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Tanc\\Tanc.Database\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Tanc.Database\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:22:33.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Tanc\\Tanc\\Program.cs",
+              "RelativeDocumentMoniker": "Tanc\\Program.cs",
+              "ToolTip": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Tanc\\Tanc\\Program.cs",
+              "RelativeToolTip": "Tanc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:02:20.858Z",
+              "EditorCaption": ""
             }
           ]
         }
