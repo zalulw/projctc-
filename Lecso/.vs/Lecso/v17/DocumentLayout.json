@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Lecso\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{263F33A4-0BD3-4786-A1B4-C761590C7885}|Lecso\\Lecso.ConsoleApp.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\lecso\\lecso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{263F33A4-0BD3-4786-A1B4-C761590C7885}|Lecso\\Lecso.ConsoleApp.csproj|solutionrelative:lecso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\b1polzal\\Desktop\\projctc-\\Lecso\\Lecso.Database\\Migrations\\20241016054401_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lecso.Database\\Migrations\\20241016054401_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A281EDE-F722-45E8-A640-7B0F9014CAA3}|Lecso.Database\\Lecso.Database.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\lecso\\lecso.database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A281EDE-F722-45E8-A640-7B0F9014CAA3}|Lecso.Database\\Lecso.Database.csproj|solutionrelative:lecso.database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A281EDE-F722-45E8-A640-7B0F9014CAA3}|Lecso.Database\\Lecso.Database.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\lecso\\lecso.database\\entities\\competitionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A281EDE-F722-45E8-A640-7B0F9014CAA3}|Lecso.Database\\Lecso.Database.csproj|solutionrelative:lecso.database\\entities\\competitionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Lecso\\Lecso\\Program.cs",
-              "RelativeDocumentMoniker": "Lecso\\Program.cs",
-              "ToolTip": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Lecso\\Lecso\\Program.cs",
-              "RelativeToolTip": "Lecso\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Title": "20241016054401_update.cs",
+              "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Lecso\\Lecso.Database\\Migrations\\20241016054401_update.cs",
+              "RelativeDocumentMoniker": "Lecso.Database\\Migrations\\20241016054401_update.cs",
+              "ToolTip": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Lecso\\Lecso.Database\\Migrations\\20241016054401_update.cs",
+              "RelativeToolTip": "Lecso.Database\\Migrations\\20241016054401_update.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T07:30:48.642Z",
+              "WhenOpened": "2024-10-16T05:44:01.303Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Lecso\\Lecso.Database\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Lecso.Database\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Lecso\\Lecso.Database\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Lecso.Database\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAoAAAARAAAAAAAAAA==",
+              "Title": "CompetitionEntity.cs",
+              "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Lecso\\Lecso.Database\\Entities\\CompetitionEntity.cs",
+              "RelativeDocumentMoniker": "Lecso.Database\\Entities\\CompetitionEntity.cs",
+              "ToolTip": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Lecso\\Lecso.Database\\Entities\\CompetitionEntity.cs",
+              "RelativeToolTip": "Lecso.Database\\Entities\\CompetitionEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAtwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T06:29:40.461Z",
+              "WhenOpened": "2024-10-16T05:41:51.812Z",
               "EditorCaption": ""
             }
           ]
