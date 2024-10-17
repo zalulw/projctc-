@@ -1,12 +1,28 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Tanc.Database
+﻿using Microsoft.EntityFrameworkCore;
+using Tanc.Database.Entities;
+namespace Tanc.Database;
+public class ApplicationDbContext : DbContext
 {
-    internal class ApplicationDbContext
+    public DbSet<CityEntity> Cities { get; set; }
+    public DbSet<CompetitionEntity> Competitions { get; set; }
+    public DbSet<CountryEntity> Countries { get; set; }
+    public DbSet<MemberEntity> Members { get; set; }
+    public DbSet<StreetEntity> Streets { get; set; }
+    public DbSet<TeamEntity> Teams { get; set; }
+    public ApplicationDbContext() : base()
     {
+    }
+    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+    {
+        base.OnConfiguring(optionsBuilder);
+        optionsBuilder.UseSqlServer(@"Server=(localdb)\mssqllocaldb;Database=VehicleDB;Trusted_Connection=True;MultipleActiveResultSets=True;TrustServerCertificate=True;");
+    }
+
+    protected override void OnModelCreating(ModelBuilder modelBuilder)
+    {
+        modelBuilder.Entity<TeamEntity>()
+                    .HasIndex(t => t.TeamName)
+                    .IsUnique();
+
     }
 }

@@ -1,22 +1,28 @@
-﻿using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
+﻿using System.ComponentModel.DataAnnotations.Schema;
+using System.ComponentModel.DataAnnotations;
 
-namespace Tanc.Database.Entities
+namespace Tanc.Database.Entities;
+[Table("Team")]
+public class TeamEntity
 {
-    public class TeamEntity
-    {
-        [Key]
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int Id { get; set; }
+    [Key]
+    [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+    public uint Id { get; set; }
 
-        public string TeamName { get; set; }
-        
-        public string Nationality { get; set; }
+    [Required]
+    [StringLength(16)]
+    public string TeamName { get; set; }
 
-        public string Choreographer { get; set; }
+    [Required]
+    [StringLength(16)]
+    public string Choreographer { get; set; }
 
-        public int Points { get; set; }
+    [Required]
+    public uint Points { get; set; }
 
-        public virtual IReadOnlyCollection<MemberEntity> Members { get; set; }
-    }
+    [ForeignKey("Country")]
+    public uint CountryId { get; set; }
+    public virtual CountryEntity Country { get; set; } //navigation property
+
+    public virtual IReadOnlyCollection<MemberEntity> Members { get; set; }
 }
