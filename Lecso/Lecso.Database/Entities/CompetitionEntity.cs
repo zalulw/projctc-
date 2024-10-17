@@ -16,15 +16,8 @@ namespace Lecso.Database.Entities
         [ForeignKey("Location")]
         public uint LocationId { get; set; }
 
-        [ForeignKey("Team")]
-        public uint TeamId { get; set; }
-
-        [ForeignKey("Judge")]
-        public uint JudgeId { get; set; }
-
-
         public virtual LocationEntity Location { get; set; }
-        public virtual TeamEntity Team { get; set; }
-        public virtual JudgeEntity Judge { get; set; }
+        public virtual ICollection<TeamEntity> Teams { get; set; }
+        public virtual ICollection<JudgeEntity> Judges { get; set; }
     }
 }

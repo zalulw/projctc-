@@ -1,0 +1,6 @@
+C:\Users\b1polzal\Desktop\projctc-\Lecso\Lecso\obj\Debug\net8.0\Lecso.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\b1polzal\Desktop\projctc-\Lecso\Lecso\obj\Debug\net8.0\Lecso.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b1polzal\Desktop\projctc-\Lecso\Lecso\obj\Debug\net8.0\Lecso.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\b1polzal\Desktop\projctc-\Lecso\Lecso\obj\Debug\net8.0\Lecso.ConsoleApp.AssemblyInfo.cs
+C:\Users\b1polzal\Desktop\projctc-\Lecso\Lecso\obj\Debug\net8.0\Lecso.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\b1polzal\Desktop\projctc-\Lecso\Lecso\obj\Debug\net8.0\Lecso.ConsoleApp.sourcelink.json

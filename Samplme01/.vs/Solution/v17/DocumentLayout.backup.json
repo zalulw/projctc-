@@ -1,26 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "H:\\Vastag Atila\\c-sharp\\014 - EntityFrameworkSamples\\Samplme01\\",
+  "WorkspaceRootPath": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Samplme01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{716CA703-A2BB-4F25-B6CB-2FCB395C6C49}|Vehicles.ConsoleApp\\Vehicles.ConsoleApp.csproj|h:\\vastag atila\\c-sharp\\014 - entityframeworksamples\\samplme01\\vehicles.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{716CA703-A2BB-4F25-B6CB-2FCB395C6C49}|Vehicles.ConsoleApp\\Vehicles.ConsoleApp.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\samplme01\\vehicles.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{716CA703-A2BB-4F25-B6CB-2FCB395C6C49}|Vehicles.ConsoleApp\\Vehicles.ConsoleApp.csproj|solutionrelative:vehicles.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0DA8550-DA86-48A5-97C6-AD30203D6AE0}|Vehicles.Database\\Vehicles.Database.csproj|h:\\vastag atila\\c-sharp\\014 - entityframeworksamples\\samplme01\\vehicles.database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B0DA8550-DA86-48A5-97C6-AD30203D6AE0}|Vehicles.Database\\Vehicles.Database.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\samplme01\\vehicles.database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0DA8550-DA86-48A5-97C6-AD30203D6AE0}|Vehicles.Database\\Vehicles.Database.csproj|solutionrelative:vehicles.database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0DA8550-DA86-48A5-97C6-AD30203D6AE0}|Vehicles.Database\\Vehicles.Database.csproj|h:\\vastag atila\\c-sharp\\014 - entityframeworksamples\\samplme01\\vehicles.database\\entities\\manufacturerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0DA8550-DA86-48A5-97C6-AD30203D6AE0}|Vehicles.Database\\Vehicles.Database.csproj|solutionrelative:vehicles.database\\entities\\manufacturerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0DA8550-DA86-48A5-97C6-AD30203D6AE0}|Vehicles.Database\\Vehicles.Database.csproj|h:\\vastag atila\\c-sharp\\014 - entityframeworksamples\\samplme01\\vehicles.database\\entities\\vehicleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0DA8550-DA86-48A5-97C6-AD30203D6AE0}|Vehicles.Database\\Vehicles.Database.csproj|solutionrelative:vehicles.database\\entities\\vehicleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0DA8550-DA86-48A5-97C6-AD30203D6AE0}|Vehicles.Database\\Vehicles.Database.csproj|h:\\vastag atila\\c-sharp\\014 - entityframeworksamples\\samplme01\\vehicles.database\\entities\\modelentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0DA8550-DA86-48A5-97C6-AD30203D6AE0}|Vehicles.Database\\Vehicles.Database.csproj|solutionrelative:vehicles.database\\entities\\modelentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,63 +24,29 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "H:\\Vastag Atila\\c-sharp\\014 - EntityFrameworkSamples\\Samplme01\\Vehicles.ConsoleApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Samplme01\\Vehicles.ConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "Vehicles.ConsoleApp\\Program.cs",
-              "ToolTip": "H:\\Vastag Atila\\c-sharp\\014 - EntityFrameworkSamples\\Samplme01\\Vehicles.ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Samplme01\\Vehicles.ConsoleApp\\Program.cs",
               "RelativeToolTip": "Vehicles.ConsoleApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAQwDcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-18T06:01:33.105Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "H:\\Vastag Atila\\c-sharp\\014 - EntityFrameworkSamples\\Samplme01\\Vehicles.Database\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Samplme01\\Vehicles.Database\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Vehicles.Database\\ApplicationDbContext.cs",
-              "ToolTip": "H:\\Vastag Atila\\c-sharp\\014 - EntityFrameworkSamples\\Samplme01\\Vehicles.Database\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Samplme01\\Vehicles.Database\\ApplicationDbContext.cs",
               "RelativeToolTip": "Vehicles.Database\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBQAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwCUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-18T07:24:55.305Z",
+              "IsPinned": true,
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "VehicleEntity.cs",
-              "DocumentMoniker": "H:\\Vastag Atila\\c-sharp\\014 - EntityFrameworkSamples\\Samplme01\\Vehicles.Database\\Entities\\VehicleEntity.cs",
-              "RelativeDocumentMoniker": "Vehicles.Database\\Entities\\VehicleEntity.cs",
-              "ToolTip": "H:\\Vastag Atila\\c-sharp\\014 - EntityFrameworkSamples\\Samplme01\\Vehicles.Database\\Entities\\VehicleEntity.cs",
-              "RelativeToolTip": "Vehicles.Database\\Entities\\VehicleEntity.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAA4wCUAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T05:59:04.643Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ModelEntity.cs",
-              "DocumentMoniker": "H:\\Vastag Atila\\c-sharp\\014 - EntityFrameworkSamples\\Samplme01\\Vehicles.Database\\Entities\\ModelEntity.cs",
-              "RelativeDocumentMoniker": "Vehicles.Database\\Entities\\ModelEntity.cs",
-              "ToolTip": "H:\\Vastag Atila\\c-sharp\\014 - EntityFrameworkSamples\\Samplme01\\Vehicles.Database\\Entities\\ModelEntity.cs",
-              "RelativeToolTip": "Vehicles.Database\\Entities\\ModelEntity.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAA5wBIAAABMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T05:55:29.29Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ManufacturerEntity.cs",
-              "DocumentMoniker": "H:\\Vastag Atila\\c-sharp\\014 - EntityFrameworkSamples\\Samplme01\\Vehicles.Database\\Entities\\ManufacturerEntity.cs",
-              "RelativeDocumentMoniker": "Vehicles.Database\\Entities\\ManufacturerEntity.cs",
-              "ToolTip": "H:\\Vastag Atila\\c-sharp\\014 - EntityFrameworkSamples\\Samplme01\\Vehicles.Database\\Entities\\ManufacturerEntity.cs",
-              "RelativeToolTip": "Vehicles.Database\\Entities\\ManufacturerEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T05:53:15.94Z"
             }
           ]
         }

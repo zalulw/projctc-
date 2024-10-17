@@ -12,7 +12,7 @@ namespace Lecso.Database.Entities
         public string Name { get; set; }
 
         [ForeignKey("Team")]
-        public uint TeamId { get; set; }
+        public int TeamId { get; set; }
         public virtual TeamEntity Team { get; set; } //nav property
     }
 }

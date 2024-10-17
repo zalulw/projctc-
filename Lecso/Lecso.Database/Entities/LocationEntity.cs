@@ -6,7 +6,7 @@ namespace Lecso.Database.Entities
     public class LocationEntity
     {
         [Key]
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        [DatabaseGenerated(DatabaseGeneratedOption.None)]
         public uint PostalCode { get; set; }
 
         [Required]
