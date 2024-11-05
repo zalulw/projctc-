@@ -1495,22 +1495,6 @@
             "rid": "win"
           }
         }
-      },
-      "OOT_Solution/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore": "8.0.10",
-          "Microsoft.EntityFrameworkCore.Abstractions": "8.0.10",
-          "Microsoft.EntityFrameworkCore.Relational": "8.0.10",
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.10"
-        },
-        "compile": {
-          "bin/placeholder/OOT_Solution.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/OOT_Solution.dll": {}
-        }
       }
     }
   },
@@ -4046,11 +4030,6 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
-    },
-    "OOT_Solution/1.0.0": {
-      "type": "project",
-      "path": "../OOT_Solution/OOT_Solution.csproj",
-      "msbuildProject": "../OOT_Solution/OOT_Solution.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4059,28 +4038,27 @@
       "Microsoft.EntityFrameworkCore.Abstractions >= 8.0.10",
       "Microsoft.EntityFrameworkCore.Relational >= 8.0.10",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.10",
-      "Microsoft.EntityFrameworkCore.Tools >= 8.0.10",
-      "OOT_Solution >= 1.0.0"
+      "Microsoft.EntityFrameworkCore.Tools >= 8.0.10"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\b1polzal\\.nuget\\packages\\": {},
+    "C:\\Users\\06zal\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\b1polzal\\Desktop\\projctc-\\OOT_Solution\\OOT.Database\\OOT.Database.csproj",
+      "projectUniqueName": "C:\\Users\\06zal\\OneDrive\\Asztali gép\\projctc-\\OOT_Solution\\OOT.Database\\OOT.Database.csproj",
       "projectName": "OOT.Database",
-      "projectPath": "C:\\Users\\b1polzal\\Desktop\\projctc-\\OOT_Solution\\OOT.Database\\OOT.Database.csproj",
-      "packagesPath": "C:\\Users\\b1polzal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\b1polzal\\Desktop\\projctc-\\OOT_Solution\\OOT.Database\\obj\\",
+      "projectPath": "C:\\Users\\06zal\\OneDrive\\Asztali gép\\projctc-\\OOT_Solution\\OOT.Database\\OOT.Database.csproj",
+      "packagesPath": "C:\\Users\\06zal\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\06zal\\OneDrive\\Asztali gép\\projctc-\\OOT_Solution\\OOT.Database\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\b1polzal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\06zal\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4089,28 +4067,18 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {
-            "C:\\Users\\b1polzal\\Desktop\\projctc-\\OOT_Solution\\OOT_Solution\\OOT_Solution.csproj": {
-              "projectPath": "C:\\Users\\b1polzal\\Desktop\\projctc-\\OOT_Solution\\OOT_Solution\\OOT_Solution.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -4156,7 +4124,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

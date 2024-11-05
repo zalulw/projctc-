@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OOT.Database")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+daf96ec3e6027d41bb3ef208e9698ef37c63196e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("OOT.Database")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OOT.Database")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

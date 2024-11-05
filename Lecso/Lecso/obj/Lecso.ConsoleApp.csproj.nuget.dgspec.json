@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\b1polzal\\Desktop\\projctc-\\Lecso\\Lecso\\Lecso.ConsoleApp.csproj": {}
+    "C:\\Users\\06zal\\OneDrive\\Asztali gép\\projctc-\\Lecso\\Lecso\\Lecso.ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\b1polzal\\Desktop\\projctc-\\Lecso\\Lecso.Database\\Lecso.Database.csproj": {
+    "C:\\Users\\06zal\\OneDrive\\Asztali gép\\projctc-\\Lecso\\Lecso.Database\\Lecso.Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Lecso\\Lecso.Database\\Lecso.Database.csproj",
+        "projectUniqueName": "C:\\Users\\06zal\\OneDrive\\Asztali gép\\projctc-\\Lecso\\Lecso.Database\\Lecso.Database.csproj",
         "projectName": "Lecso.Database",
-        "projectPath": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Lecso\\Lecso.Database\\Lecso.Database.csproj",
-        "packagesPath": "C:\\Users\\b1polzal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Lecso\\Lecso.Database\\obj\\",
+        "projectPath": "C:\\Users\\06zal\\OneDrive\\Asztali gép\\projctc-\\Lecso\\Lecso.Database\\Lecso.Database.csproj",
+        "packagesPath": "C:\\Users\\06zal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\06zal\\OneDrive\\Asztali gép\\projctc-\\Lecso\\Lecso.Database\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\b1polzal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\06zal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,11 +38,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -89,24 +83,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\b1polzal\\Desktop\\projctc-\\Lecso\\Lecso\\Lecso.ConsoleApp.csproj": {
+    "C:\\Users\\06zal\\OneDrive\\Asztali gép\\projctc-\\Lecso\\Lecso\\Lecso.ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Lecso\\Lecso\\Lecso.ConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\06zal\\OneDrive\\Asztali gép\\projctc-\\Lecso\\Lecso\\Lecso.ConsoleApp.csproj",
         "projectName": "Lecso.ConsoleApp",
-        "projectPath": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Lecso\\Lecso\\Lecso.ConsoleApp.csproj",
-        "packagesPath": "C:\\Users\\b1polzal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Lecso\\Lecso\\obj\\",
+        "projectPath": "C:\\Users\\06zal\\OneDrive\\Asztali gép\\projctc-\\Lecso\\Lecso\\Lecso.ConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\06zal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\06zal\\OneDrive\\Asztali gép\\projctc-\\Lecso\\Lecso\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\b1polzal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\06zal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -115,15 +109,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\b1polzal\\Desktop\\projctc-\\Lecso\\Lecso.Database\\Lecso.Database.csproj": {
-                "projectPath": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Lecso\\Lecso.Database\\Lecso.Database.csproj"
+              "C:\\Users\\06zal\\OneDrive\\Asztali gép\\projctc-\\Lecso\\Lecso.Database\\Lecso.Database.csproj": {
+                "projectPath": "C:\\Users\\06zal\\OneDrive\\Asztali gép\\projctc-\\Lecso\\Lecso.Database\\Lecso.Database.csproj"
               }
             }
           }
@@ -132,11 +125,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -182,7 +170,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

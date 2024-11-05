@@ -17,8 +17,4 @@
     </PackageReference>
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\OOT_Solution\OOT_Solution.csproj" />
-  </ItemGroup>
-
 </Project>

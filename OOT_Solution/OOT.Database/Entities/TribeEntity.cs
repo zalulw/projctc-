@@ -10,5 +10,7 @@ namespace OOT.Database.Entities
         public uint Id { get; set; }
         [Required]
         public string Name { get; set; }
+
+        public virtual SubclassEntity Subclass { get; set; }
     }
 }

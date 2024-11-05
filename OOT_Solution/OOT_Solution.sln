@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOT_Solution", "OOT_Solution\OOT_Solution.csproj", "{CBDDF4F3-ECBA-4075-9E14-23361938A20F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOT.ConsoleApp", "OOT_Solution\OOT.ConsoleApp.csproj", "{CBDDF4F3-ECBA-4075-9E14-23361938A20F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOT.Database", "OOT.Database\OOT.Database.csproj", "{402DA9C5-A926-47BD-9ABD-01A9B8C1C579}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOT.Database", "OOT.Database\OOT.Database.csproj", "{402DA9C5-A926-47BD-9ABD-01A9B8C1C579}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
