@@ -1,50 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\b1simada\\Desktop\\projctc-\\Tanc\\",
+  "WorkspaceRootPath": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Tanc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\b1simada\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Migrations\\20241017073843_test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tanc.Database\\Migrations\\20241017073843_test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}|Tanc.Database\\Tanc.Database.csproj|c:\\users\\b1simada\\desktop\\projctc-\\tanc\\tanc.database\\entities\\streetentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}|Tanc.Database\\Tanc.Database.csproj|solutionrelative:tanc.database\\entities\\streetentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}|Tanc.Database\\Tanc.Database.csproj|c:\\users\\b1simada\\desktop\\projctc-\\tanc\\tanc.database\\entities\\cityentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}|Tanc.Database\\Tanc.Database.csproj|solutionrelative:tanc.database\\entities\\cityentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}|Tanc.Database\\Tanc.Database.csproj|c:\\users\\b1simada\\desktop\\projctc-\\tanc\\tanc.database\\entities\\countryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}|Tanc.Database\\Tanc.Database.csproj|solutionrelative:tanc.database\\entities\\countryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00562543-0339-4957-980A-94FE34FC32A0}|Tanc\\Tanc.ConsoleApp.csproj|c:\\users\\b1simada\\desktop\\projctc-\\tanc\\tanc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{00562543-0339-4957-980A-94FE34FC32A0}|Tanc\\Tanc.ConsoleApp.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\tanc\\tanc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00562543-0339-4957-980A-94FE34FC32A0}|Tanc\\Tanc.ConsoleApp.csproj|solutionrelative:tanc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\b1simada\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Migrations\\20241017073724_test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tanc.Database\\Migrations\\20241017073724_test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\b1simada\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Migrations\\20241017073453_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tanc.Database\\Migrations\\20241017073453_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}|Tanc.Database\\Tanc.Database.csproj|c:\\users\\b1simada\\desktop\\projctc-\\tanc\\tanc.database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}|Tanc.Database\\Tanc.Database.csproj|solutionrelative:tanc.database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}|Tanc.Database\\Tanc.Database.csproj|c:\\users\\b1simada\\desktop\\projctc-\\tanc\\tanc.database\\entities\\memberentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}|Tanc.Database\\Tanc.Database.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\tanc\\tanc.database\\entities\\memberentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}|Tanc.Database\\Tanc.Database.csproj|solutionrelative:tanc.database\\entities\\memberentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}|Tanc.Database\\Tanc.Database.csproj|c:\\users\\b1simada\\desktop\\projctc-\\tanc\\tanc.database\\entities\\teamentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}|Tanc.Database\\Tanc.Database.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\tanc\\tanc.database\\entities\\streetentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}|Tanc.Database\\Tanc.Database.csproj|solutionrelative:tanc.database\\entities\\streetentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}|Tanc.Database\\Tanc.Database.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\tanc\\tanc.database\\entities\\competitionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}|Tanc.Database\\Tanc.Database.csproj|solutionrelative:tanc.database\\entities\\competitionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}|Tanc.Database\\Tanc.Database.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\tanc\\tanc.database\\entities\\countryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}|Tanc.Database\\Tanc.Database.csproj|solutionrelative:tanc.database\\entities\\countryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}|Tanc.Database\\Tanc.Database.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\tanc\\tanc.database\\migrations\\20241017073843_test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}|Tanc.Database\\Tanc.Database.csproj|solutionrelative:tanc.database\\migrations\\20241017073843_test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}|Tanc.Database\\Tanc.Database.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\tanc\\tanc.database\\entities\\cityentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}|Tanc.Database\\Tanc.Database.csproj|solutionrelative:tanc.database\\entities\\cityentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}|Tanc.Database\\Tanc.Database.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\tanc\\tanc.database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}|Tanc.Database\\Tanc.Database.csproj|solutionrelative:tanc.database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}|Tanc.Database\\Tanc.Database.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\tanc\\tanc.database\\entities\\teamentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}|Tanc.Database\\Tanc.Database.csproj|solutionrelative:tanc.database\\entities\\teamentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}|Tanc.Database\\Tanc.Database.csproj|c:\\users\\b1simada\\desktop\\projctc-\\tanc\\tanc.database\\entities\\competitionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}|Tanc.Database\\Tanc.Database.csproj|solutionrelative:tanc.database\\entities\\competitionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}|Tanc.Database\\Tanc.Database.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\tanc\\tanc.database\\migrations\\20241017073724_test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}|Tanc.Database\\Tanc.Database.csproj|solutionrelative:tanc.database\\migrations\\20241017073724_test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}|Tanc.Database\\Tanc.Database.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\tanc\\tanc.database\\migrations\\20241017073453_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D34988B-CF1C-480B-A1A0-1A6FFEFCE22D}|Tanc.Database\\Tanc.Database.csproj|solutionrelative:tanc.database\\migrations\\20241017073453_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,54 +54,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20241017073843_test2.cs",
-              "DocumentMoniker": "C:\\Users\\b1simada\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Migrations\\20241017073843_test2.cs",
-              "RelativeDocumentMoniker": "Tanc.Database\\Migrations\\20241017073843_test2.cs",
-              "ToolTip": "C:\\Users\\b1simada\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Migrations\\20241017073843_test2.cs",
-              "RelativeToolTip": "Tanc.Database\\Migrations\\20241017073843_test2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T07:38:43.898Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20241017073724_test1.cs",
-              "DocumentMoniker": "C:\\Users\\b1simada\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Migrations\\20241017073724_test1.cs",
-              "RelativeDocumentMoniker": "Tanc.Database\\Migrations\\20241017073724_test1.cs",
-              "ToolTip": "C:\\Users\\b1simada\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Migrations\\20241017073724_test1.cs",
-              "RelativeToolTip": "Tanc.Database\\Migrations\\20241017073724_test1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T07:37:24.882Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20241017073453_init.cs",
-              "DocumentMoniker": "C:\\Users\\b1simada\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Migrations\\20241017073453_init.cs",
-              "RelativeDocumentMoniker": "Tanc.Database\\Migrations\\20241017073453_init.cs",
-              "ToolTip": "C:\\Users\\b1simada\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Migrations\\20241017073453_init.cs",
-              "RelativeToolTip": "Tanc.Database\\Migrations\\20241017073453_init.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T07:34:53.731Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CountryEntity.cs",
-              "DocumentMoniker": "C:\\Users\\b1simada\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Entities\\CountryEntity.cs",
+              "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Entities\\CountryEntity.cs",
               "RelativeDocumentMoniker": "Tanc.Database\\Entities\\CountryEntity.cs",
-              "ToolTip": "C:\\Users\\b1simada\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Entities\\CountryEntity.cs",
+              "ToolTip": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Entities\\CountryEntity.cs",
               "RelativeToolTip": "Tanc.Database\\Entities\\CountryEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -110,39 +71,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Tanc\\Tanc\\Program.cs",
+              "RelativeDocumentMoniker": "Tanc\\Program.cs",
+              "ToolTip": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Tanc\\Tanc\\Program.cs",
+              "RelativeToolTip": "Tanc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:14:10.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompetitionEntity.cs",
+              "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Entities\\CompetitionEntity.cs",
+              "RelativeDocumentMoniker": "Tanc.Database\\Entities\\CompetitionEntity.cs",
+              "ToolTip": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Entities\\CompetitionEntity.cs",
+              "RelativeToolTip": "Tanc.Database\\Entities\\CompetitionEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:14:21.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "StreetEntity.cs",
-              "DocumentMoniker": "C:\\Users\\b1simada\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Entities\\StreetEntity.cs",
-              "RelativeDocumentMoniker": "Tanc.Database\\Entities\\StreetEntity.cs",
-              "ToolTip": "C:\\Users\\b1simada\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Entities\\StreetEntity.cs",
-              "RelativeToolTip": "Tanc.Database\\Entities\\StreetEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T07:19:38.217Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\b1simada\\Desktop\\projctc-\\Tanc\\Tanc.Database\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Tanc.Database\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\b1simada\\Desktop\\projctc-\\Tanc\\Tanc.Database\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Tanc.Database\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T07:16:31.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "MemberEntity.cs",
-              "DocumentMoniker": "C:\\Users\\b1simada\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Entities\\MemberEntity.cs",
+              "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Entities\\MemberEntity.cs",
               "RelativeDocumentMoniker": "Tanc.Database\\Entities\\MemberEntity.cs",
-              "ToolTip": "C:\\Users\\b1simada\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Entities\\MemberEntity.cs",
+              "ToolTip": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Entities\\MemberEntity.cs",
               "RelativeToolTip": "Tanc.Database\\Entities\\MemberEntity.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T07:16:15.202Z",
               "EditorCaption": ""
@@ -150,54 +111,88 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CityEntity.cs",
-              "DocumentMoniker": "C:\\Users\\b1simada\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Entities\\CityEntity.cs",
-              "RelativeDocumentMoniker": "Tanc.Database\\Entities\\CityEntity.cs",
-              "ToolTip": "C:\\Users\\b1simada\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Entities\\CityEntity.cs",
-              "RelativeToolTip": "Tanc.Database\\Entities\\CityEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "StreetEntity.cs",
+              "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Entities\\StreetEntity.cs",
+              "RelativeDocumentMoniker": "Tanc.Database\\Entities\\StreetEntity.cs",
+              "ToolTip": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Entities\\StreetEntity.cs",
+              "RelativeToolTip": "Tanc.Database\\Entities\\StreetEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T07:16:08.203Z",
+              "WhenOpened": "2024-10-17T07:19:38.217Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TeamEntity.cs",
-              "DocumentMoniker": "C:\\Users\\b1simada\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Entities\\TeamEntity.cs",
-              "RelativeDocumentMoniker": "Tanc.Database\\Entities\\TeamEntity.cs",
-              "ToolTip": "C:\\Users\\b1simada\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Entities\\TeamEntity.cs",
-              "RelativeToolTip": "Tanc.Database\\Entities\\TeamEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "20241017073843_test2.cs",
+              "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Migrations\\20241017073843_test2.cs",
+              "RelativeDocumentMoniker": "Tanc.Database\\Migrations\\20241017073843_test2.cs",
+              "ToolTip": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Migrations\\20241017073843_test2.cs",
+              "RelativeToolTip": "Tanc.Database\\Migrations\\20241017073843_test2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T07:16:00.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\b1simada\\Desktop\\projctc-\\Tanc\\Tanc\\Program.cs",
-              "RelativeDocumentMoniker": "Tanc\\Program.cs",
-              "ToolTip": "C:\\Users\\b1simada\\Desktop\\projctc-\\Tanc\\Tanc\\Program.cs",
-              "RelativeToolTip": "Tanc\\Program.cs",
-              "ViewState": "AgIAAJ4AAAAAAAAAAAAUwLEAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T07:14:10.184Z",
+              "WhenOpened": "2024-10-17T07:38:43.898Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "CompetitionEntity.cs",
-              "DocumentMoniker": "C:\\Users\\b1simada\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Entities\\CompetitionEntity.cs",
-              "RelativeDocumentMoniker": "Tanc.Database\\Entities\\CompetitionEntity.cs",
-              "ToolTip": "C:\\Users\\b1simada\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Entities\\CompetitionEntity.cs",
-              "RelativeToolTip": "Tanc.Database\\Entities\\CompetitionEntity.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBcAAAAaAAAAAAAAAA==",
+              "Title": "20241017073453_init.cs",
+              "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Migrations\\20241017073453_init.cs",
+              "RelativeDocumentMoniker": "Tanc.Database\\Migrations\\20241017073453_init.cs",
+              "ToolTip": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Migrations\\20241017073453_init.cs",
+              "RelativeToolTip": "Tanc.Database\\Migrations\\20241017073453_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T07:14:21.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T07:34:53.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241017073724_test1.cs",
+              "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Migrations\\20241017073724_test1.cs",
+              "RelativeDocumentMoniker": "Tanc.Database\\Migrations\\20241017073724_test1.cs",
+              "ToolTip": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Migrations\\20241017073724_test1.cs",
+              "RelativeToolTip": "Tanc.Database\\Migrations\\20241017073724_test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:37:24.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Tanc\\Tanc.Database\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Tanc.Database\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Tanc\\Tanc.Database\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Tanc.Database\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:16:31.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CityEntity.cs",
+              "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Entities\\CityEntity.cs",
+              "RelativeDocumentMoniker": "Tanc.Database\\Entities\\CityEntity.cs",
+              "ToolTip": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Entities\\CityEntity.cs",
+              "RelativeToolTip": "Tanc.Database\\Entities\\CityEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:16:08.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TeamEntity.cs",
+              "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Entities\\TeamEntity.cs",
+              "RelativeDocumentMoniker": "Tanc.Database\\Entities\\TeamEntity.cs",
+              "ToolTip": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Tanc\\Tanc.Database\\Entities\\TeamEntity.cs",
+              "RelativeToolTip": "Tanc.Database\\Entities\\TeamEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:16:00.457Z"
             }
           ]
         }
