@@ -1,0 +1,15 @@
+C:\Users\b1simada\Desktop\projctc-\Atletika\Atletika.Database\bin\Debug\net8.0\Atletika.Database.deps.json
+C:\Users\b1simada\Desktop\projctc-\Atletika\Atletika.Database\bin\Debug\net8.0\Atletika.Database.runtimeconfig.json
+C:\Users\b1simada\Desktop\projctc-\Atletika\Atletika.Database\bin\Debug\net8.0\Atletika.Database.dll
+C:\Users\b1simada\Desktop\projctc-\Atletika\Atletika.Database\bin\Debug\net8.0\Atletika.Database.pdb
+C:\Users\b1simada\Desktop\projctc-\Atletika\Atletika.Database\obj\Debug\net8.0\Atletika.Database.csproj.AssemblyReference.cache
+C:\Users\b1simada\Desktop\projctc-\Atletika\Atletika.Database\obj\Debug\net8.0\Atletika.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b1simada\Desktop\projctc-\Atletika\Atletika.Database\obj\Debug\net8.0\Atletika.Database.AssemblyInfoInputs.cache
+C:\Users\b1simada\Desktop\projctc-\Atletika\Atletika.Database\obj\Debug\net8.0\Atletika.Database.AssemblyInfo.cs
+C:\Users\b1simada\Desktop\projctc-\Atletika\Atletika.Database\obj\Debug\net8.0\Atletika.Database.csproj.CoreCompileInputs.cache
+C:\Users\b1simada\Desktop\projctc-\Atletika\Atletika.Database\obj\Debug\net8.0\Atletika.Database.sourcelink.json
+C:\Users\b1simada\Desktop\projctc-\Atletika\Atletika.Database\obj\Debug\net8.0\Atletika.Database.dll
+C:\Users\b1simada\Desktop\projctc-\Atletika\Atletika.Database\obj\Debug\net8.0\refint\Atletika.Database.dll
+C:\Users\b1simada\Desktop\projctc-\Atletika\Atletika.Database\obj\Debug\net8.0\Atletika.Database.pdb
+C:\Users\b1simada\Desktop\projctc-\Atletika\Atletika.Database\obj\Debug\net8.0\Atletika.Database.genruntimeconfig.cache
+C:\Users\b1simada\Desktop\projctc-\Atletika\Atletika.Database\obj\Debug\net8.0\ref\Atletika.Database.dll

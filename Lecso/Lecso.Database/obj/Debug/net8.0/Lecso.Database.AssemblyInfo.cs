@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lecso.Database")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+952cc1f53dd375a64932dbe23e569363bb38cdde")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lecso.Database")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lecso.Database")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

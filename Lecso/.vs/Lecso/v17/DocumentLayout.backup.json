@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Lecso\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A281EDE-F722-45E8-A640-7B0F9014CAA3}|Lecso.Database\\Lecso.Database.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\lecso\\lecso.database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A281EDE-F722-45E8-A640-7B0F9014CAA3}|Lecso.Database\\Lecso.Database.csproj|solutionrelative:lecso.database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A281EDE-F722-45E8-A640-7B0F9014CAA3}|Lecso.Database\\Lecso.Database.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\lecso\\lecso.database\\entities\\memberentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A281EDE-F722-45E8-A640-7B0F9014CAA3}|Lecso.Database\\Lecso.Database.csproj|solutionrelative:lecso.database\\entities\\memberentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A281EDE-F722-45E8-A640-7B0F9014CAA3}|Lecso.Database\\Lecso.Database.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\lecso\\lecso.database\\entities\\teamentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A281EDE-F722-45E8-A640-7B0F9014CAA3}|Lecso.Database\\Lecso.Database.csproj|solutionrelative:lecso.database\\entities\\teamentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7A281EDE-F722-45E8-A640-7B0F9014CAA3}|Lecso.Database\\Lecso.Database.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\lecso\\lecso.database\\entities\\judgeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A281EDE-F722-45E8-A640-7B0F9014CAA3}|Lecso.Database\\Lecso.Database.csproj|solutionrelative:lecso.database\\entities\\judgeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A281EDE-F722-45E8-A640-7B0F9014CAA3}|Lecso.Database\\Lecso.Database.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\lecso\\lecso.database\\entities\\teamentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A281EDE-F722-45E8-A640-7B0F9014CAA3}|Lecso.Database\\Lecso.Database.csproj|solutionrelative:lecso.database\\entities\\teamentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A281EDE-F722-45E8-A640-7B0F9014CAA3}|Lecso.Database\\Lecso.Database.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\lecso\\lecso.database\\entities\\competitionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A281EDE-F722-45E8-A640-7B0F9014CAA3}|Lecso.Database\\Lecso.Database.csproj|solutionrelative:lecso.database\\entities\\competitionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A281EDE-F722-45E8-A640-7B0F9014CAA3}|Lecso.Database\\Lecso.Database.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\lecso\\lecso.database\\entities\\memberentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A281EDE-F722-45E8-A640-7B0F9014CAA3}|Lecso.Database\\Lecso.Database.csproj|solutionrelative:lecso.database\\entities\\memberentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A281EDE-F722-45E8-A640-7B0F9014CAA3}|Lecso.Database\\Lecso.Database.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\lecso\\lecso.database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A281EDE-F722-45E8-A640-7B0F9014CAA3}|Lecso.Database\\Lecso.Database.csproj|solutionrelative:lecso.database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7A281EDE-F722-45E8-A640-7B0F9014CAA3}|Lecso.Database\\Lecso.Database.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\lecso\\lecso.database\\entities\\locationentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A281EDE-F722-45E8-A640-7B0F9014CAA3}|Lecso.Database\\Lecso.Database.csproj|solutionrelative:lecso.database\\entities\\locationentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A281EDE-F722-45E8-A640-7B0F9014CAA3}|Lecso.Database\\Lecso.Database.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\lecso\\lecso.database\\entities\\competitionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A281EDE-F722-45E8-A640-7B0F9014CAA3}|Lecso.Database\\Lecso.Database.csproj|solutionrelative:lecso.database\\entities\\competitionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,24 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Lecso\\Lecso.Database\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Lecso.Database\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Lecso\\Lecso.Database\\ApplicationDbContext.cs",
               "RelativeToolTip": "Lecso.Database\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T06:22:14.269Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "LocationEntity.cs",
               "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Lecso\\Lecso.Database\\Entities\\LocationEntity.cs",
               "RelativeDocumentMoniker": "Lecso.Database\\Entities\\LocationEntity.cs",
@@ -63,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "JudgeEntity.cs",
               "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Lecso\\Lecso.Database\\Entities\\JudgeEntity.cs",
               "RelativeDocumentMoniker": "Lecso.Database\\Entities\\JudgeEntity.cs",
@@ -71,11 +71,12 @@
               "RelativeToolTip": "Lecso.Database\\Entities\\JudgeEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T06:22:59.164Z"
+              "WhenOpened": "2024-10-16T06:22:59.164Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "TeamEntity.cs",
               "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Lecso\\Lecso.Database\\Entities\\TeamEntity.cs",
               "RelativeDocumentMoniker": "Lecso.Database\\Entities\\TeamEntity.cs",
@@ -83,11 +84,12 @@
               "RelativeToolTip": "Lecso.Database\\Entities\\TeamEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T06:22:58.12Z"
+              "WhenOpened": "2024-10-16T06:22:58.12Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MemberEntity.cs",
               "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Lecso\\Lecso.Database\\Entities\\MemberEntity.cs",
               "RelativeDocumentMoniker": "Lecso.Database\\Entities\\MemberEntity.cs",
@@ -100,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "CompetitionEntity.cs",
               "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Lecso\\Lecso.Database\\Entities\\CompetitionEntity.cs",
               "RelativeDocumentMoniker": "Lecso.Database\\Entities\\CompetitionEntity.cs",
@@ -108,7 +110,8 @@
               "RelativeToolTip": "Lecso.Database\\Entities\\CompetitionEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T05:41:51.812Z"
+              "WhenOpened": "2024-10-16T05:41:51.812Z",
+              "EditorCaption": ""
             }
           ]
         }

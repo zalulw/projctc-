@@ -1,6 +1,0 @@
-C:\Development\School\projctc-\Atletika\obj\Debug\net8.0\Atletika.csproj.AssemblyReference.cache
-C:\Development\School\projctc-\Atletika\obj\Debug\net8.0\Atletika.GeneratedMSBuildEditorConfig.editorconfig
-C:\Development\School\projctc-\Atletika\obj\Debug\net8.0\Atletika.AssemblyInfoInputs.cache
-C:\Development\School\projctc-\Atletika\obj\Debug\net8.0\Atletika.AssemblyInfo.cs
-C:\Development\School\projctc-\Atletika\obj\Debug\net8.0\Atletika.csproj.CoreCompileInputs.cache
-C:\Development\School\projctc-\Atletika\obj\Debug\net8.0\Atletika.sourcelink.json
