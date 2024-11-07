@@ -13,10 +13,6 @@ namespace Atletika.Database.Entities
         [Required]
         public bool Participated { get; set; }
 
-        [ForeignKey("Competition")]
-        public int CompetitionId { get; set; }
-        public virtual CompetitionEntity Competition { get; set; }
-
         [ForeignKey("Athlete")]
         public int AthleteId { get; set; }
         public virtual AthleteEntity Athlete { get; set; }

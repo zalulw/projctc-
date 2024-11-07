@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\b1simada\\Desktop\\projctc-\\Atletika\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{19814202-1552-4B25-B1A2-3BCE710B2731}|Atletika.Database\\Atletika.Database.csproj|c:\\users\\b1simada\\desktop\\projctc-\\atletika\\atletika.database\\entities\\clubentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19814202-1552-4B25-B1A2-3BCE710B2731}|Atletika.Database\\Atletika.Database.csproj|solutionrelative:atletika.database\\entities\\clubentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA306CF8-69BB-4BA0-B209-5B0EEB70F199}|Atletika\\Atletika.csproj|c:\\users\\b1simada\\desktop\\projctc-\\atletika\\atletika\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA306CF8-69BB-4BA0-B209-5B0EEB70F199}|Atletika\\Atletika.csproj|solutionrelative:atletika\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19814202-1552-4B25-B1A2-3BCE710B2731}|Atletika.Database\\Atletika.Database.csproj|c:\\users\\b1simada\\desktop\\projctc-\\atletika\\atletika.database\\entities\\evententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19814202-1552-4B25-B1A2-3BCE710B2731}|Atletika.Database\\Atletika.Database.csproj|solutionrelative:atletika.database\\entities\\evententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{19814202-1552-4B25-B1A2-3BCE710B2731}|Atletika.Database\\Atletika.Database.csproj|c:\\users\\b1simada\\desktop\\projctc-\\atletika\\atletika.database\\entities\\athleteentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19814202-1552-4B25-B1A2-3BCE710B2731}|Atletika.Database\\Atletika.Database.csproj|solutionrelative:atletika.database\\entities\\athleteentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{19814202-1552-4B25-B1A2-3BCE710B2731}|Atletika.Database\\Atletika.Database.csproj|c:\\users\\b1simada\\desktop\\projctc-\\atletika\\atletika.database\\entities\\competitionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19814202-1552-4B25-B1A2-3BCE710B2731}|Atletika.Database\\Atletika.Database.csproj|solutionrelative:atletika.database\\entities\\competitionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19814202-1552-4B25-B1A2-3BCE710B2731}|Atletika.Database\\Atletika.Database.csproj|c:\\users\\b1simada\\desktop\\projctc-\\atletika\\atletika.database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19814202-1552-4B25-B1A2-3BCE710B2731}|Atletika.Database\\Atletika.Database.csproj|solutionrelative:atletika.database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{19814202-1552-4B25-B1A2-3BCE710B2731}|Atletika.Database\\Atletika.Database.csproj|c:\\users\\b1simada\\desktop\\projctc-\\atletika\\atletika.database\\entities\\enrollmententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,24 +35,8 @@
       "RelativeMoniker": "D:0:0:{19814202-1552-4B25-B1A2-3BCE710B2731}|Atletika.Database\\Atletika.Database.csproj|solutionrelative:atletika.database\\entities\\streetentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19814202-1552-4B25-B1A2-3BCE710B2731}|Atletika.Database\\Atletika.Database.csproj|c:\\users\\b1simada\\desktop\\projctc-\\atletika\\atletika.database\\entities\\evententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19814202-1552-4B25-B1A2-3BCE710B2731}|Atletika.Database\\Atletika.Database.csproj|solutionrelative:atletika.database\\entities\\evententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19814202-1552-4B25-B1A2-3BCE710B2731}|Atletika.Database\\Atletika.Database.csproj|c:\\users\\b1simada\\desktop\\projctc-\\atletika\\atletika.database\\entities\\clubentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19814202-1552-4B25-B1A2-3BCE710B2731}|Atletika.Database\\Atletika.Database.csproj|solutionrelative:atletika.database\\entities\\clubentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{19814202-1552-4B25-B1A2-3BCE710B2731}|Atletika.Database\\Atletika.Database.csproj|c:\\users\\b1simada\\desktop\\projctc-\\atletika\\atletika.database\\entities\\cityentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19814202-1552-4B25-B1A2-3BCE710B2731}|Atletika.Database\\Atletika.Database.csproj|solutionrelative:atletika.database\\entities\\cityentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA306CF8-69BB-4BA0-B209-5B0EEB70F199}|Atletika\\Atletika.csproj|c:\\users\\b1simada\\desktop\\projctc-\\atletika\\atletika\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA306CF8-69BB-4BA0-B209-5B0EEB70F199}|Atletika\\Atletika.csproj|solutionrelative:atletika\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19814202-1552-4B25-B1A2-3BCE710B2731}|Atletika.Database\\Atletika.Database.csproj|c:\\users\\b1simada\\desktop\\projctc-\\atletika\\atletika.database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19814202-1552-4B25-B1A2-3BCE710B2731}|Atletika.Database\\Atletika.Database.csproj|solutionrelative:atletika.database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\b1simada\\Desktop\\projctc-\\Atletika\\Atletika.Database\\Migrations\\20241106064758_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
@@ -78,77 +78,76 @@
               "RelativeToolTip": "Atletika.Database\\Migrations\\20241106064758_init.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T06:47:58.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T06:47:58.168Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "StreetEntity.cs",
               "DocumentMoniker": "C:\\Users\\b1simada\\Desktop\\projctc-\\Atletika\\Atletika.Database\\Entities\\StreetEntity.cs",
               "RelativeDocumentMoniker": "Atletika.Database\\Entities\\StreetEntity.cs",
               "ToolTip": "C:\\Users\\b1simada\\Desktop\\projctc-\\Atletika\\Atletika.Database\\Entities\\StreetEntity.cs",
               "RelativeToolTip": "Atletika.Database\\Entities\\StreetEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T06:30:16.888Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "EventEntity.cs",
               "DocumentMoniker": "C:\\Users\\b1simada\\Desktop\\projctc-\\Atletika\\Atletika.Database\\Entities\\EventEntity.cs",
               "RelativeDocumentMoniker": "Atletika.Database\\Entities\\EventEntity.cs",
               "ToolTip": "C:\\Users\\b1simada\\Desktop\\projctc-\\Atletika\\Atletika.Database\\Entities\\EventEntity.cs",
               "RelativeToolTip": "Atletika.Database\\Entities\\EventEntity.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAqwAkAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwBEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T06:30:13.616Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "EnrollmentEntity.cs",
               "DocumentMoniker": "C:\\Users\\b1simada\\Desktop\\projctc-\\Atletika\\Atletika.Database\\Entities\\EnrollmentEntity.cs",
               "RelativeDocumentMoniker": "Atletika.Database\\Entities\\EnrollmentEntity.cs",
               "ToolTip": "C:\\Users\\b1simada\\Desktop\\projctc-\\Atletika\\Atletika.Database\\Entities\\EnrollmentEntity.cs",
               "RelativeToolTip": "Atletika.Database\\Entities\\EnrollmentEntity.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T06:30:06.983Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "CompetitionEntity.cs",
               "DocumentMoniker": "C:\\Users\\b1simada\\Desktop\\projctc-\\Atletika\\Atletika.Database\\Entities\\CompetitionEntity.cs",
               "RelativeDocumentMoniker": "Atletika.Database\\Entities\\CompetitionEntity.cs",
               "ToolTip": "C:\\Users\\b1simada\\Desktop\\projctc-\\Atletika\\Atletika.Database\\Entities\\CompetitionEntity.cs",
               "RelativeToolTip": "Atletika.Database\\Entities\\CompetitionEntity.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T06:29:58.616Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "ClubEntity.cs",
               "DocumentMoniker": "C:\\Users\\b1simada\\Desktop\\projctc-\\Atletika\\Atletika.Database\\Entities\\ClubEntity.cs",
               "RelativeDocumentMoniker": "Atletika.Database\\Entities\\ClubEntity.cs",
               "ToolTip": "C:\\Users\\b1simada\\Desktop\\projctc-\\Atletika\\Atletika.Database\\Entities\\ClubEntity.cs",
               "RelativeToolTip": "Atletika.Database\\Entities\\ClubEntity.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T06:29:50.455Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "CityEntity.cs",
               "DocumentMoniker": "C:\\Users\\b1simada\\Desktop\\projctc-\\Atletika\\Atletika.Database\\Entities\\CityEntity.cs",
               "RelativeDocumentMoniker": "Atletika.Database\\Entities\\CityEntity.cs",
@@ -161,39 +160,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "AthleteEntity.cs",
               "DocumentMoniker": "C:\\Users\\b1simada\\Desktop\\projctc-\\Atletika\\Atletika.Database\\Entities\\AthleteEntity.cs",
               "RelativeDocumentMoniker": "Atletika.Database\\Entities\\AthleteEntity.cs",
               "ToolTip": "C:\\Users\\b1simada\\Desktop\\projctc-\\Atletika\\Atletika.Database\\Entities\\AthleteEntity.cs",
               "RelativeToolTip": "Atletika.Database\\Entities\\AthleteEntity.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABcAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAxwBcAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T06:28:46.376Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\b1simada\\Desktop\\projctc-\\Atletika\\Atletika.Database\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Atletika.Database\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\b1simada\\Desktop\\projctc-\\Atletika\\Atletika.Database\\ApplicationDbContext.cs",
               "RelativeToolTip": "Atletika.Database\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBwAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T06:26:19.014Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\b1simada\\Desktop\\projctc-\\Atletika\\Atletika\\Program.cs",
               "RelativeDocumentMoniker": "Atletika\\Program.cs",
               "ToolTip": "C:\\Users\\b1simada\\Desktop\\projctc-\\Atletika\\Atletika\\Program.cs",
               "RelativeToolTip": "Atletika\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAAACYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T06:26:28.283Z",
               "EditorCaption": ""
@@ -208,8 +207,7 @@
               "RelativeToolTip": "Atletika.Database\\Migrations\\20241106063545_test2.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T06:35:45.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T06:35:45.826Z"
             },
             {
               "$type": "Document",
@@ -221,8 +219,7 @@
               "RelativeToolTip": "Atletika.Database\\Migrations\\20241106063418_test.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T06:34:18.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T06:34:18.301Z"
             },
             {
               "$type": "Document",
@@ -234,21 +231,19 @@
               "RelativeToolTip": "Atletika.Database\\Migrations\\20241106062711_init.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T06:27:11.755Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T06:27:11.755Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Atletika.Database",
+              "Title": "Atletika.Database.csproj",
               "DocumentMoniker": "C:\\Users\\b1simada\\Desktop\\projctc-\\Atletika\\Atletika.Database\\Atletika.Database.csproj",
               "RelativeDocumentMoniker": "Atletika.Database\\Atletika.Database.csproj",
               "ToolTip": "C:\\Users\\b1simada\\Desktop\\projctc-\\Atletika\\Atletika.Database\\Atletika.Database.csproj",
               "RelativeToolTip": "Atletika.Database\\Atletika.Database.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-06T06:26:30.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T06:26:30.009Z"
             }
           ]
         }

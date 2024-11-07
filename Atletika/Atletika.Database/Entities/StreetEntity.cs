@@ -15,7 +15,7 @@ namespace Atletika.Database.Entities
         public int HouseNumber { get; set; }
 
         [ForeignKey("City")]
-        public int CityId { get; set; }
+        public int PostalCode { get; set; }
         public virtual CityEntity City { get; set; }
     }
 }

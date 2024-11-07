@@ -21,22 +21,5 @@ public class ApplicationDbContext : DbContext
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-        modelBuilder.Entity<EnrollmentEntity>()
-            .HasKey(e => new { e.Id });
-
-        modelBuilder.Entity<EnrollmentEntity>()
-            .HasOne(e => e.Athlete)
-            .WithMany()
-            .HasForeignKey(e => e.AthleteId);
-
-        modelBuilder.Entity<EnrollmentEntity>()
-            .HasOne(e => e.Event)
-            .WithMany()
-            .HasForeignKey(e => e.EventId);
-
-        modelBuilder.Entity<EnrollmentEntity>()
-            .HasOne(e => e.Competition)
-            .WithMany(c => c.Enrollments)
-            .HasForeignKey(e => e.CompetitionId);
     }
 }

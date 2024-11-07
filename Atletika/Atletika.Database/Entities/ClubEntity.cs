@@ -18,9 +18,9 @@ namespace Atletika.Database.Entities
         [StringLength(16)]
         public string PhoneNumber { get; set; }
 
-        [ForeignKey("City")]
-        public int CityId { get; set; }
-        public virtual CityEntity City { get; set; }
+        [ForeignKey("Street")]
+        public int StreetId { get; set; }
+        public virtual StreetEntity Street { get; set; }
 
         public virtual IReadOnlyCollection<AthleteEntity> Athletes { get; set; }
     }

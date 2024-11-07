@@ -10,10 +10,10 @@ namespace Atletika.Database.Entities
         public int Id { get; set; }
         [Required]
         [StringLength(16)]
-        public string Name { get; set; }
+        public string Category { get; set; }
         [Required]
         [StringLength(16)]
-        public string Category { get; set; }
+        public string SubCategory { get; set; }
         [Required]
         [StringLength(16)]
         public string Gender { get; set; }

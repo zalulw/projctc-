@@ -25,6 +25,7 @@ namespace Atletika.Database.Entities
         public virtual StreetEntity Street { get; set; }
 
         public virtual IReadOnlyCollection<ClubEntity> Clubs { get; set; }
-        public virtual IReadOnlyCollection<EnrollmentEntity> Enrollments { get; set; }
+
+        public virtual IReadOnlyCollection<EventEntity> Events { get; set; }
     }
 }

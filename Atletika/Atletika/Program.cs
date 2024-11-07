@@ -21,13 +21,44 @@ async Task AddCompetitionToDbAsync()
                 Name = "Kecskemét",
             },
         },
+        Events = new List<EventEntity>()
+        {
+            new EventEntity()
+            {
+                Category = "Futószám",
+                SubCategory = "100m síkfutás",
+                Gender = "Férfi",
+                AgeGroup = "Ifjúsági"
+            },
+            new EventEntity()
+            {
+                Category = "Futószám",
+                SubCategory = "200m síkfutás",
+                Gender = "Férfi",
+                AgeGroup = "Felnőtt"
+            },
+            new EventEntity()
+            {
+                Category = "Futószám",
+                SubCategory = "400m síkfutás",
+                Gender = "Férfi",
+                AgeGroup = "Felnőtt"
+            },
+            new EventEntity()
+            {
+                Category = "Futószám",
+                SubCategory = "400m síkfutás",
+                Gender = "Női",
+                AgeGroup = "Felnőtt"
+            },
+        },
         Clubs = new List<ClubEntity>()
         {
             new ClubEntity()
             {
                 Name = "Budapest Athletics Club",
                 Email = "contact@budapestathletics.hu",
-                PhoneNumber = "+36 30 123 4567",
+                PhoneNumber = "+3601234567",
                 Athletes = new List<AthleteEntity>()
                 {
                     new AthleteEntity
@@ -50,7 +81,9 @@ async Task AddCompetitionToDbAsync()
                     {
                         Name = "Karasz Máté",
                         Gender = "Férfi",
-                        DateOfBirth = "2001-09-14",
+                        DateOfBirth = "2009-09-14",
+                        ResponsiblePersonName = "Karasz Károly",
+                        ResponsiblePersonPhone = "+36302029827",
                         Street = new StreetEntity
                         {
                             Name = "Szegedi u.",

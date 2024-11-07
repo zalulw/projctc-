@@ -26,5 +26,9 @@ namespace Atletika.Database.Entities
         [ForeignKey("Street")]
         public int StreetId { get; set; }
         public virtual StreetEntity Street { get; set; }
+
+        [ForeignKey("Club")]
+        public int ClubId { get; set; }
+        public virtual ClubEntity Club { get; set; }
     }
 }
