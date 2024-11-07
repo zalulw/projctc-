@@ -13,6 +13,7 @@ namespace Ornitologia.Database
         public DbSet<StreetEntity> Streets { get; set; }
         public DbSet<SubclassEntity> Subclasses { get; set; }
         public DbSet<TribeEntity> Tribes { get; set; }
+        public DbSet<MemberEntity> Members { get; set; }
 
         public ApplicationDbContext() : base()
         {
@@ -24,5 +25,24 @@ namespace Ornitologia.Database
             optionsBuilder.UseSqlServer(@"Server=(localdb)\mssqllocaldb;Database=OrnitologiaDB;Trusted_Connection=True;MultipleActiveResultSets=True;TrustServerCertificate=True;");
 
         }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<BirdEntity>()
+                .HasOne(b => b.Member)  
+                .WithMany(m => m.Birds) 
+                .HasForeignKey(b => b.MemberId); 
+
+            modelBuilder.Entity<BirdEntity>()
+                .HasOne(b => b.Species)
+                .WithMany() 
+                .HasForeignKey(b => b.SpeciesId);
+
+            modelBuilder.Entity<BirdEntity>()
+                .HasOne(b => b.StreetEntity)
+                .WithMany() 
+                .HasForeignKey(b => b.StreetId);
+        }
+
     }
 }

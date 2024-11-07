@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ornitologia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+952cc1f53dd375a64932dbe23e569363bb38cdde")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e9c19dcb49320e6c3d0efb440580b273a305d7f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ornitologia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ornitologia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

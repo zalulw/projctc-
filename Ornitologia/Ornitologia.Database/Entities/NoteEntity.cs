@@ -18,12 +18,11 @@ public class NoteEntity
     [ForeignKey("Member")]
     public int MemberId { get; set; }
     [Required]
-    public string Location { get; set; }
+    public StreetEntity Location { get; set; }
     [Required]
     public string Date { get; set; }
 
     public virtual BirdEntity Bird { get; set; }
     public virtual MemberEntity Member { get; set; }
-
 
 }

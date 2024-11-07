@@ -23,4 +23,5 @@ public class StreetEntity
     public int CityId { get; set; }
     public virtual CityEntity City { get; set; } //nav
     public virtual MemberEntity Member { get; set; }
+    public virtual IReadOnlyCollection<NoteEntity> Notes { get; set; }
 }

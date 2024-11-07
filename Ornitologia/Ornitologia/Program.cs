@@ -1,61 +1,58 @@
 ﻿using Ornitologia.Database.Entities;
 
-
 using var dbContext = new Ornitologia.Database.ApplicationDbContext();
+await AddNoteToDbAsync();
 
-
-async Task AddBirdToDbAsync()
+async Task AddNoteToDbAsync()
 {
-    var bird = new BirdEntity
+    var street = new StreetEntity
     {
-        RingNumber = 1241,
-        Species = new SpeciesEntity
+        PostalCode = 37501,
+        StreetName = "Groove St.",
+        HouseNumber = 12,
+        City = new CityEntity
         {
-            SpeciesName = "Corvus brachyrhynchos",
-            Class = new ClassEntity
-            {
-                ClassName = "Aves",
-                Subclass = new SubclassEntity
-                {
-                    SubclassName = "Neognathae",
-                    Tribe = new TribeEntity
-                    {
-                        TribeName = "Corvidae"
-                    }
-                }
-            }
+            CityName = "Memphis"
+        }
+    };
+
+    var member = new MemberEntity
+    {
+        MembershipCardNumber = 145271,
+        Name = "Karasz Máté",
+        Street = street,
+        StartOfMembership = "2020.10.05",
+        EndOfMembership = "2025.10.05"
+    };
+
+    await dbContext.Members.AddAsync(member);
+    await dbContext.SaveChangesAsync();
+
+    var note = new NoteEntity
+    {
+        Bird = new BirdEntity
+        {
+            RingNumber = 1241,
+            SpeciesId = 1, 
+            MemberId = member.MembershipCardNumber, 
+            StreetId = street.Id, 
+            DateOfRinging = "2022.05.21",
+            WhereRinged = "New Street", 
         },
-        WhoRinged = new MemberEntity
+        Member = member, 
+        Location = new StreetEntity
         {
-            MembershipCardNumber = 145271,
-            Name = "Karasz Máté",
-            Street = new StreetEntity
-            {
-                PostalCode = 37501,
-                StreetName = "Groove St.",
-                HouseNumber = 12,
-                City = new CityEntity
-                {
-                    CityName = "Memphis"
-                }
-            },
-            StartOfMembership = "2020.10.05",
-            EndOfMembership = "2025.10.05"
-        },
-        WhereRinged = new StreetEntity
-        {
-            PostalCode = 37501,
-            StreetName = "New Street",
+            PostalCode = 4128,
+            StreetName = "utca street",
             HouseNumber = 0,
             City = new CityEntity
             {
-                CityName = "Memphis"
+                CityName = "Brisbane"
             }
         },
-        DateOfRinging = "2022.05.21",
-        Note = new NoteEntity
-        {
-
-        }
+        Date = "2024.5.21."
     };
+
+    await dbContext.Notes.AddAsync(note);
+    await dbContext.SaveChangesAsync();
 }

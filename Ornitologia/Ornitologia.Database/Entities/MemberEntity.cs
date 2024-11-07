@@ -15,6 +15,7 @@ public class MemberEntity
     public int MembershipCardNumber { get; set; }
     [Required]
     public string Name { get; set; }
+
     [ForeignKey("Street")]
     public int StreetId { get; set; }
     [Required]

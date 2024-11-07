@@ -11,13 +11,12 @@ public class BirdEntity
     [ForeignKey("Species")]
     public int SpeciesId { get; set; }
     [ForeignKey("Member")]
-    public MemberEntity WhoRinged { get; set; }
+    public int MemberId { get; set; }
     [ForeignKey("Street")]
-    public StreetEntity WhereRinged { get; set; }
+    public int StreetId { get; set; }
     [Required]
     public string DateOfRinging { get; set; }
-
-    public NoteEntity Note { get; set; }
+    public string WhereRinged { get; set; }
 
     public virtual SpeciesEntity Species { get; set; }//nav
     public virtual MemberEntity Member { get; set; }
