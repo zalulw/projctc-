@@ -120,15 +120,35 @@ namespace Ornitologia.Database.Migrations
                 });
 
             migrationBuilder.CreateTable(
+                name: "Species",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    SpeciesName = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    ClassId = table.Column<int>(type: "int", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Species", x => x.Id);
+                    table.ForeignKey(
+                        name: "FK_Species_BirdClass_ClassId",
+                        column: x => x.ClassId,
+                        principalTable: "BirdClass",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Cascade);
+                });
+
+            migrationBuilder.CreateTable(
                 name: "Bird",
                 columns: table => new
                 {
                     RingNumber = table.Column<int>(type: "int", nullable: false),
                     SpeciesId = table.Column<int>(type: "int", nullable: false),
                     MemberId = table.Column<int>(type: "int", nullable: false),
-                    StreetId = table.Column<int>(type: "int", nullable: false),
                     DateOfRinging = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    WhereRinged = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                    WhereRinged = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    SpeciesEntityId = table.Column<int>(type: "int", nullable: true)
                 },
                 constraints: table =>
                 {
@@ -140,9 +160,14 @@ namespace Ornitologia.Database.Migrations
                         principalColumn: "MembershipCardNumber",
                         onDelete: ReferentialAction.Cascade);
                     table.ForeignKey(
-                        name: "FK_Bird_Street_StreetId",
-                        column: x => x.StreetId,
-                        principalTable: "Street",
+                        name: "FK_Bird_Species_SpeciesEntityId",
+                        column: x => x.SpeciesEntityId,
+                        principalTable: "Species",
+                        principalColumn: "Id");
+                    table.ForeignKey(
+                        name: "FK_Bird_Species_SpeciesId",
+                        column: x => x.SpeciesId,
+                        principalTable: "Species",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                 });
@@ -165,46 +190,17 @@ namespace Ornitologia.Database.Migrations
                         name: "FK_Note_Bird_BirdId",
                         column: x => x.BirdId,
                         principalTable: "Bird",
-                        principalColumn: "RingNumber",
-                        onDelete: ReferentialAction.Cascade);
+                        principalColumn: "RingNumber");
                     table.ForeignKey(
                         name: "FK_Note_Member_MemberId",
                         column: x => x.MemberId,
                         principalTable: "Member",
-                        principalColumn: "MembershipCardNumber",
-                        onDelete: ReferentialAction.Cascade);
+                        principalColumn: "MembershipCardNumber");
                     table.ForeignKey(
                         name: "FK_Note_Street_LocationId",
                         column: x => x.LocationId,
                         principalTable: "Street",
                         principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
-                });
-
-            migrationBuilder.CreateTable(
-                name: "Species",
-                columns: table => new
-                {
-                    Id = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
-                    SpeciesName = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    ClassId = table.Column<int>(type: "int", nullable: false),
-                    BirdRingNumber = table.Column<int>(type: "int", nullable: false)
-                },
-                constraints: table =>
-                {
-                    table.PrimaryKey("PK_Species", x => x.Id);
-                    table.ForeignKey(
-                        name: "FK_Species_BirdClass_ClassId",
-                        column: x => x.ClassId,
-                        principalTable: "BirdClass",
-                        principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
-                    table.ForeignKey(
-                        name: "FK_Species_Bird_BirdRingNumber",
-                        column: x => x.BirdRingNumber,
-                        principalTable: "Bird",
-                        principalColumn: "RingNumber",
                         onDelete: ReferentialAction.Cascade);
                 });
 
@@ -214,14 +210,14 @@ namespace Ornitologia.Database.Migrations
                 column: "MemberId");
 
             migrationBuilder.CreateIndex(
+                name: "IX_Bird_SpeciesEntityId",
+                table: "Bird",
+                column: "SpeciesEntityId");
+
+            migrationBuilder.CreateIndex(
                 name: "IX_Bird_SpeciesId",
                 table: "Bird",
                 column: "SpeciesId");
-
-            migrationBuilder.CreateIndex(
-                name: "IX_Bird_StreetId",
-                table: "Bird",
-                column: "StreetId");
 
             migrationBuilder.CreateIndex(
                 name: "IX_BirdClass_SubclassId",
@@ -251,11 +247,6 @@ namespace Ornitologia.Database.Migrations
                 column: "MemberId");
 
             migrationBuilder.CreateIndex(
-                name: "IX_Species_BirdRingNumber",
-                table: "Species",
-                column: "BirdRingNumber");
-
-            migrationBuilder.CreateIndex(
                 name: "IX_Species_ClassId",
                 table: "Species",
                 column: "ClassId",
@@ -272,29 +263,16 @@ namespace Ornitologia.Database.Migrations
                 table: "Subclass",
                 column: "TribeId",
                 unique: true);
-
-            migrationBuilder.AddForeignKey(
-                name: "FK_Bird_Species_SpeciesId",
-                table: "Bird",
-                column: "SpeciesId",
-                principalTable: "Species",
-                principalColumn: "Id",
-                onDelete: ReferentialAction.Cascade);
         }
 
         /// <inheritdoc />
         protected override void Down(MigrationBuilder migrationBuilder)
         {
-            migrationBuilder.DropForeignKey(
-                name: "FK_Bird_Member_MemberId",
-                table: "Bird");
-
-            migrationBuilder.DropForeignKey(
-                name: "FK_Bird_Species_SpeciesId",
-                table: "Bird");
-
             migrationBuilder.DropTable(
                 name: "Note");
+
+            migrationBuilder.DropTable(
+                name: "Bird");
 
             migrationBuilder.DropTable(
                 name: "Member");
@@ -303,22 +281,19 @@ namespace Ornitologia.Database.Migrations
                 name: "Species");
 
             migrationBuilder.DropTable(
+                name: "Street");
+
+            migrationBuilder.DropTable(
                 name: "BirdClass");
 
             migrationBuilder.DropTable(
-                name: "Bird");
+                name: "City");
 
             migrationBuilder.DropTable(
                 name: "Subclass");
 
             migrationBuilder.DropTable(
-                name: "Street");
-
-            migrationBuilder.DropTable(
                 name: "Tribe");
-
-            migrationBuilder.DropTable(
-                name: "City");
         }
     }
 }

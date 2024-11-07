@@ -13,3 +13,18 @@ C:\Users\06zal\OneDrive\Asztali gép\projctc-\Ornitologia\Ornitologia.Database\o
 C:\Users\06zal\OneDrive\Asztali gép\projctc-\Ornitologia\Ornitologia.Database\obj\Debug\net8.0\Ornitologia.Database.pdb
 C:\Users\06zal\OneDrive\Asztali gép\projctc-\Ornitologia\Ornitologia.Database\obj\Debug\net8.0\Ornitologia.Database.genruntimeconfig.cache
 C:\Users\06zal\OneDrive\Asztali gép\projctc-\Ornitologia\Ornitologia.Database\obj\Debug\net8.0\ref\Ornitologia.Database.dll
+C:\Users\b1polzal\Desktop\projctc-\Ornitologia\Ornitologia.Database\bin\Debug\net8.0\Ornitologia.Database.deps.json
+C:\Users\b1polzal\Desktop\projctc-\Ornitologia\Ornitologia.Database\bin\Debug\net8.0\Ornitologia.Database.runtimeconfig.json
+C:\Users\b1polzal\Desktop\projctc-\Ornitologia\Ornitologia.Database\bin\Debug\net8.0\Ornitologia.Database.dll
+C:\Users\b1polzal\Desktop\projctc-\Ornitologia\Ornitologia.Database\bin\Debug\net8.0\Ornitologia.Database.pdb
+C:\Users\b1polzal\Desktop\projctc-\Ornitologia\Ornitologia.Database\obj\Debug\net8.0\Ornitologia.Database.csproj.AssemblyReference.cache
+C:\Users\b1polzal\Desktop\projctc-\Ornitologia\Ornitologia.Database\obj\Debug\net8.0\Ornitologia.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b1polzal\Desktop\projctc-\Ornitologia\Ornitologia.Database\obj\Debug\net8.0\Ornitologia.Database.AssemblyInfoInputs.cache
+C:\Users\b1polzal\Desktop\projctc-\Ornitologia\Ornitologia.Database\obj\Debug\net8.0\Ornitologia.Database.AssemblyInfo.cs
+C:\Users\b1polzal\Desktop\projctc-\Ornitologia\Ornitologia.Database\obj\Debug\net8.0\Ornitologia.Database.csproj.CoreCompileInputs.cache
+C:\Users\b1polzal\Desktop\projctc-\Ornitologia\Ornitologia.Database\obj\Debug\net8.0\Ornitologia.Database.sourcelink.json
+C:\Users\b1polzal\Desktop\projctc-\Ornitologia\Ornitologia.Database\obj\Debug\net8.0\Ornitologia.Database.dll
+C:\Users\b1polzal\Desktop\projctc-\Ornitologia\Ornitologia.Database\obj\Debug\net8.0\refint\Ornitologia.Database.dll
+C:\Users\b1polzal\Desktop\projctc-\Ornitologia\Ornitologia.Database\obj\Debug\net8.0\Ornitologia.Database.pdb
+C:\Users\b1polzal\Desktop\projctc-\Ornitologia\Ornitologia.Database\obj\Debug\net8.0\Ornitologia.Database.genruntimeconfig.cache
+C:\Users\b1polzal\Desktop\projctc-\Ornitologia\Ornitologia.Database\obj\Debug\net8.0\ref\Ornitologia.Database.dll

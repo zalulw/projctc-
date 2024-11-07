@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Ornitologia.Database.Entities;
+using System.Security.Cryptography.X509Certificates;
 
 namespace Ornitologia.Database
 {
@@ -38,10 +39,21 @@ namespace Ornitologia.Database
                 .WithMany() 
                 .HasForeignKey(b => b.SpeciesId);
 
-            modelBuilder.Entity<BirdEntity>()
-                .HasOne(b => b.StreetEntity)
-                .WithMany() 
-                .HasForeignKey(b => b.StreetId);
+            modelBuilder.Entity<NoteEntity>()
+                .HasOne(x => x.Member)
+                .WithMany(x => x.Notes)
+                .OnDelete(DeleteBehavior.NoAction);
+
+            modelBuilder.Entity<NoteEntity>()
+                .HasOne(x => x.Bird)
+                .WithMany(x => x.Notes)
+                .OnDelete(DeleteBehavior.NoAction);
+
+            /*modelBuilder.Entity<BirdEntity>()
+                   .HasOne(b => b.Species)
+                   .WithMany()
+                   .HasForeignKey(b => b.SpeciesId)
+                   .OnDelete(DeleteBehavior.Restrict);*/
         }
 
     }

@@ -1,4 +1,5 @@
-﻿using Ornitologia.Database.Entities;
+﻿using Microsoft.Identity.Client;
+using Ornitologia.Database.Entities;
 
 using var dbContext = new Ornitologia.Database.ApplicationDbContext();
 await AddNoteToDbAsync();
@@ -18,7 +19,7 @@ async Task AddNoteToDbAsync()
 
     var member = new MemberEntity
     {
-        MembershipCardNumber = 145271,
+        MembershipCardNumber = 1452812,
         Name = "Karasz Máté",
         Street = street,
         StartOfMembership = "2020.10.05",
@@ -28,18 +29,52 @@ async Task AddNoteToDbAsync()
     await dbContext.Members.AddAsync(member);
     await dbContext.SaveChangesAsync();
 
+    var tribe = new TribeEntity
+    {
+        TribeName = "Corvus"
+    };
+    await dbContext.Tribes.AddAsync(tribe);
+    await dbContext.SaveChangesAsync();
+
+    var subclass = new SubclassEntity
+    {
+        SubclassName = "Corvinae",
+        TribeId = tribe.Id
+    };
+    await dbContext.Subclasses.AddAsync(subclass);
+    await dbContext.SaveChangesAsync();
+
+    var birdclass = new ClassEntity
+    {
+        ClassName = "Aves",
+        SubclassId = subclass.Id
+    };
+    await dbContext.Classes.AddAsync(birdclass);
+    await dbContext.SaveChangesAsync();
+
+    var species = new SpeciesEntity
+    {
+        SpeciesName = "Corvus brachyrhynchos",
+        ClassId = birdclass.Id
+    };
+
+
+    await dbContext.Species.AddAsync(species);
+    await dbContext.SaveChangesAsync();
+
+
+
     var note = new NoteEntity
     {
         Bird = new BirdEntity
         {
             RingNumber = 1241,
-            SpeciesId = 1, 
-            MemberId = member.MembershipCardNumber, 
-            StreetId = street.Id, 
+            SpeciesId = species.Id,
+            MemberId = member.MembershipCardNumber,
             DateOfRinging = "2022.05.21",
-            WhereRinged = "New Street", 
+            WhereRinged = "Lisbon, Portugal, Parque de Apoló",
         },
-        Member = member, 
+        Member = member,
         Location = new StreetEntity
         {
             PostalCode = 4128,

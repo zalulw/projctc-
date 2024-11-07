@@ -3,44 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Ornitologia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{368C3BA1-0FBA-47AE-92E9-D7F505E9850E}|Ornitologia\\Ornitologia.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\ornitologia\\ornitologia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{368C3BA1-0FBA-47AE-92E9-D7F505E9850E}|Ornitologia\\Ornitologia.csproj|solutionrelative:ornitologia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8428B2A0-7F9D-48BE-99DD-197ACB02ABE1}|Ornitologia.Database\\Ornitologia.Database.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\ornitologia\\ornitologia.database\\entities\\birdentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8428B2A0-7F9D-48BE-99DD-197ACB02ABE1}|Ornitologia.Database\\Ornitologia.Database.csproj|solutionrelative:ornitologia.database\\entities\\birdentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8428B2A0-7F9D-48BE-99DD-197ACB02ABE1}|Ornitologia.Database\\Ornitologia.Database.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\ornitologia\\ornitologia.database\\entities\\noteentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8428B2A0-7F9D-48BE-99DD-197ACB02ABE1}|Ornitologia.Database\\Ornitologia.Database.csproj|solutionrelative:ornitologia.database\\entities\\noteentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{368C3BA1-0FBA-47AE-92E9-D7F505E9850E}|Ornitologia\\Ornitologia.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\ornitologia\\ornitologia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{368C3BA1-0FBA-47AE-92E9-D7F505E9850E}|Ornitologia\\Ornitologia.csproj|solutionrelative:ornitologia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8428B2A0-7F9D-48BE-99DD-197ACB02ABE1}|Ornitologia.Database\\Ornitologia.Database.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\ornitologia\\ornitologia.database\\entities\\memberentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8428B2A0-7F9D-48BE-99DD-197ACB02ABE1}|Ornitologia.Database\\Ornitologia.Database.csproj|solutionrelative:ornitologia.database\\entities\\memberentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8428B2A0-7F9D-48BE-99DD-197ACB02ABE1}|Ornitologia.Database\\Ornitologia.Database.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\ornitologia\\ornitologia.database\\entities\\streetentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8428B2A0-7F9D-48BE-99DD-197ACB02ABE1}|Ornitologia.Database\\Ornitologia.Database.csproj|solutionrelative:ornitologia.database\\entities\\streetentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\b1polzal\\Desktop\\projctc-\\Ornitologia\\Ornitologia.Database\\Migrations\\20241107083700_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ornitologia.Database\\Migrations\\20241107083700_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8428B2A0-7F9D-48BE-99DD-197ACB02ABE1}|Ornitologia.Database\\Ornitologia.Database.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\ornitologia\\ornitologia.database\\entities\\speciesentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8428B2A0-7F9D-48BE-99DD-197ACB02ABE1}|Ornitologia.Database\\Ornitologia.Database.csproj|solutionrelative:ornitologia.database\\entities\\speciesentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8428B2A0-7F9D-48BE-99DD-197ACB02ABE1}|Ornitologia.Database\\Ornitologia.Database.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\ornitologia\\ornitologia.database\\entities\\tribeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8428B2A0-7F9D-48BE-99DD-197ACB02ABE1}|Ornitologia.Database\\Ornitologia.Database.csproj|solutionrelative:ornitologia.database\\entities\\tribeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8428B2A0-7F9D-48BE-99DD-197ACB02ABE1}|Ornitologia.Database\\Ornitologia.Database.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\ornitologia\\ornitologia.database\\entities\\classentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8428B2A0-7F9D-48BE-99DD-197ACB02ABE1}|Ornitologia.Database\\Ornitologia.Database.csproj|solutionrelative:ornitologia.database\\entities\\classentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8428B2A0-7F9D-48BE-99DD-197ACB02ABE1}|Ornitologia.Database\\Ornitologia.Database.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\ornitologia\\ornitologia.database\\entities\\cityentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8428B2A0-7F9D-48BE-99DD-197ACB02ABE1}|Ornitologia.Database\\Ornitologia.Database.csproj|solutionrelative:ornitologia.database\\entities\\cityentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8428B2A0-7F9D-48BE-99DD-197ACB02ABE1}|Ornitologia.Database\\Ornitologia.Database.csproj|c:\\users\\b1polzal\\desktop\\projctc-\\ornitologia\\ornitologia.database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8428B2A0-7F9D-48BE-99DD-197ACB02ABE1}|Ornitologia.Database\\Ornitologia.Database.csproj|solutionrelative:ornitologia.database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,136 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Ornitologia\\Ornitologia\\Program.cs",
               "RelativeDocumentMoniker": "Ornitologia\\Program.cs",
               "ToolTip": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Ornitologia\\Ornitologia\\Program.cs",
               "RelativeToolTip": "Ornitologia\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T08:20:48.157Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BirdEntity.cs",
-              "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Ornitologia\\Ornitologia.Database\\Entities\\BirdEntity.cs",
-              "RelativeDocumentMoniker": "Ornitologia.Database\\Entities\\BirdEntity.cs",
-              "ToolTip": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Ornitologia\\Ornitologia.Database\\Entities\\BirdEntity.cs",
-              "RelativeToolTip": "Ornitologia.Database\\Entities\\BirdEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T06:29:29.345Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MemberEntity.cs",
-              "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Ornitologia\\Ornitologia.Database\\Entities\\MemberEntity.cs",
-              "RelativeDocumentMoniker": "Ornitologia.Database\\Entities\\MemberEntity.cs",
-              "ToolTip": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Ornitologia\\Ornitologia.Database\\Entities\\MemberEntity.cs",
-              "RelativeToolTip": "Ornitologia.Database\\Entities\\MemberEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBoAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T06:30:44.676Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StreetEntity.cs",
-              "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Ornitologia\\Ornitologia.Database\\Entities\\StreetEntity.cs",
-              "RelativeDocumentMoniker": "Ornitologia.Database\\Entities\\StreetEntity.cs",
-              "ToolTip": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Ornitologia\\Ornitologia.Database\\Entities\\StreetEntity.cs",
-              "RelativeToolTip": "Ornitologia.Database\\Entities\\StreetEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T07:01:58.701Z",
+              "WhenOpened": "2024-11-07T08:37:10.861Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "NoteEntity.cs",
-              "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Ornitologia\\Ornitologia.Database\\Entities\\NoteEntity.cs",
-              "RelativeDocumentMoniker": "Ornitologia.Database\\Entities\\NoteEntity.cs",
-              "ToolTip": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Ornitologia\\Ornitologia.Database\\Entities\\NoteEntity.cs",
-              "RelativeToolTip": "Ornitologia.Database\\Entities\\NoteEntity.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAA0AAAAAAAAAA==",
+              "Title": "20241107083700_init.cs",
+              "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Ornitologia\\Ornitologia.Database\\Migrations\\20241107083700_init.cs",
+              "RelativeDocumentMoniker": "Ornitologia.Database\\Migrations\\20241107083700_init.cs",
+              "ToolTip": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Ornitologia\\Ornitologia.Database\\Migrations\\20241107083700_init.cs",
+              "RelativeToolTip": "Ornitologia.Database\\Migrations\\20241107083700_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T06:31:06.958Z",
+              "WhenOpened": "2024-11-07T08:37:00.865Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "BirdEntity.cs",
+              "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Ornitologia\\Ornitologia.Database\\Entities\\BirdEntity.cs",
+              "RelativeDocumentMoniker": "Ornitologia.Database\\Entities\\BirdEntity.cs",
+              "ToolTip": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Ornitologia\\Ornitologia.Database\\Entities\\BirdEntity.cs",
+              "RelativeToolTip": "Ornitologia.Database\\Entities\\BirdEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:36:10.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "SpeciesEntity.cs",
               "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Ornitologia\\Ornitologia.Database\\Entities\\SpeciesEntity.cs",
               "RelativeDocumentMoniker": "Ornitologia.Database\\Entities\\SpeciesEntity.cs",
               "ToolTip": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Ornitologia\\Ornitologia.Database\\Entities\\SpeciesEntity.cs",
               "RelativeToolTip": "Ornitologia.Database\\Entities\\SpeciesEntity.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T07:00:05.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TribeEntity.cs",
-              "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Ornitologia\\Ornitologia.Database\\Entities\\TribeEntity.cs",
-              "RelativeDocumentMoniker": "Ornitologia.Database\\Entities\\TribeEntity.cs",
-              "ToolTip": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Ornitologia\\Ornitologia.Database\\Entities\\TribeEntity.cs",
-              "RelativeToolTip": "Ornitologia.Database\\Entities\\TribeEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T07:01:38.302Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ClassEntity.cs",
-              "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Ornitologia\\Ornitologia.Database\\Entities\\ClassEntity.cs",
-              "RelativeDocumentMoniker": "Ornitologia.Database\\Entities\\ClassEntity.cs",
-              "ToolTip": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Ornitologia\\Ornitologia.Database\\Entities\\ClassEntity.cs",
-              "RelativeToolTip": "Ornitologia.Database\\Entities\\ClassEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T06:30:25.571Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CityEntity.cs",
-              "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Ornitologia\\Ornitologia.Database\\Entities\\CityEntity.cs",
-              "RelativeDocumentMoniker": "Ornitologia.Database\\Entities\\CityEntity.cs",
-              "ToolTip": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Ornitologia\\Ornitologia.Database\\Entities\\CityEntity.cs",
-              "RelativeToolTip": "Ornitologia.Database\\Entities\\CityEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T06:30:08.498Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Ornitologia\\Ornitologia.Database\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Ornitologia.Database\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\b1polzal\\Desktop\\projctc-\\Ornitologia\\Ornitologia.Database\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Ornitologia.Database\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T07:10:00.038Z",
+              "WhenOpened": "2024-11-07T08:35:31.423Z",
               "EditorCaption": ""
             }
           ]

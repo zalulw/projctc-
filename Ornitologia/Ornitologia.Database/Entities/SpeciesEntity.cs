@@ -1,10 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Ornitologia.Database.Entities;
 [Table("Species")]
@@ -19,6 +14,6 @@ public class SpeciesEntity
     public int ClassId { get; set; }
 
     public virtual ClassEntity Class { get; set; }
-    public virtual BirdEntity Bird { get; set; }
+    public virtual IReadOnlyCollection<BirdEntity> Birds { get; set; }
 
 }
